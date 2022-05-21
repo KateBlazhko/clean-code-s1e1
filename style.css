@@ -77,7 +77,7 @@ body {
 
 /* Heading */
 .add-task__title ,
-.todo__title {
+.title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -155,7 +155,7 @@ body {
 }
 
 /* Completed */
-#todo__list_comlete .item__task-title {
+.completed__list .item__task-title {
   text-decoration: line-through;
   color: #888;
 }
