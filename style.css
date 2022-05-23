@@ -1,4 +1,4 @@
-/* Basic Style */
+/* Reset default styles */
 ul {
   margin: 0;
   padding: 0;
@@ -14,7 +14,8 @@ button{
   outline: none;
 }
 
-body {
+/* Basic Style */
+.body {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
