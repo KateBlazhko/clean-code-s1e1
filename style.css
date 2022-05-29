@@ -1,5 +1,5 @@
 /* Basic Style */
-.body {
+.page {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -29,7 +29,7 @@
 
 }
 
-.container {
+.app {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -98,7 +98,7 @@
 }
 
 /* New todo__task */
-.input_add-task {
+.add-task__input {
   width: 318px;
 }
 
